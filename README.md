@@ -1,25 +1,4 @@
 
-## Badges
-
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
-[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
-[![git](https://badgen.net/badge/icon/git?icon=git&label)](https://git-scm.com)
-[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/--007ACC?logo=visual%20studio%20code&logoColor=ffffff)](https://code.visualstudio.com/)
-[![Windows](https://badgen.net/badge/icon/windows?icon=windows&label)](https://microsoft.com/windows/)
-
-
-# 💳Credit-Card-Fraud-Detection
-This is a machine learning project made on Credit Card Fraud Detection. The data is taken from Kaggle. Different classification machine learning algorithms have been applied to get the maximum accuracy. 
-
-
-
-
-
-
 ## 🚧About Project
 The purpose of the project is to make a machine learning model that will be able to detect whether the transaction made is fraud or genuine based upoen the given parameters.
 The parameters used to calculate the whether the class is fraud or genuine, we are not given any information regarding the features of the dataset in order to maintain the privacy of the user.
@@ -81,21 +60,5 @@ The "Support Vector Machine" (SVM) is a supervised machine learning technique th
 
 ### Ensemble Model
 A hard voting ensemble is used in classification to predict the class with the greatest votes by aggregating the votes for crisp class labels from other models. In a soft voting ensemble, the predicted probabilities for class labels are added up and the class label with the highest sum probability is predicted.
-The predictions from many models are combined in a voting ensemble. It can be used for regression or classification. In the case of regression, this entails taking the average of the models' predictions. When it comes to classification, the predictions for each label are added together, and the label with the most votes is chosen.
 
 
-![majority_voting](https://user-images.githubusercontent.com/56130865/163222690-f0804689-01f3-4d34-9bf1-e456cf50068a.png)
-
-## 📓 Authors
-
-- [@coderhersh](https://github.com/coderhersh)
-
-
-## 🚀 About Me
-I'm a 4th year B.Tech CSE student currently brushing up my skills on Python and Machine Learning.
-
-## 🌟References
-1️⃣ https://www.analyticsvidhya.com/ <br/>
-2️⃣ https://towardsdatascience.com/ <br/>
-3️⃣ https://scikit-learn.org/stable/ <br/>
-4️⃣ https://pandas.pydata.org/docs/
